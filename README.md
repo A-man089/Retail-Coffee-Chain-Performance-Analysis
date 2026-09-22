@@ -31,8 +31,3 @@ An interactive Power BI analytics dashboard built to monitor total revenue, orde
 
 ---
 
-## 📸 Dashboard Visual
-
-![Dashboard Preview](<img width="1225" height="747" alt="Screenshot 2026-09-22 154047" src="https://github.com/user-attachments/assets/71cc36db-c22a-4e08-906e-06414ff6c4ff" />
-)
-
